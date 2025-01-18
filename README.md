@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m @trendyllama
 - 👀 I’m interested in web development and software design, primarily in a financial context
-- 🌱 I’m currently learning typescript and trying to master the python ecosystem
+- 🌱 I’m currently learning typescript, trying to integrate testing and ci/cd into my workflows
+- Long term I am trying to master the python ecosystem
 
 # Professional Experience
   - Quote tracking, and trade monitoring systems
