@@ -11,7 +11,7 @@
   - Database/table design
   - Full Stack Flask Development
     - Realtime Applications with asyncronous data fetching and updates on both the frontend and the backend
-    - Barebones approach with vanilla HTML and Javascript - *no frameworks*
+    - Barebones approach with vanilla HTML and Javascript
 
 
 <!---
